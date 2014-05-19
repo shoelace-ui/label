@@ -1,0 +1,12 @@
+{
+  "name" : "shoelace-ui-label",
+  "version" : "0.0.1",
+  "description" : "Label styles",
+  "repository" : "https://github.com/shoelace-ui/label.git",
+  "keywords" : ["shoelace", "label", "labels"],
+  "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license" : "MIT",
+  "dependencies": {
+    "shoelace-ui-spacing": "git+https://github.com/shoelace-ui/spacing.git",
+  }
+}

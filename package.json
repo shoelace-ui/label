@@ -7,6 +7,6 @@
   "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
   "license" : "MIT",
   "dependencies": {
-    "shoelace-ui-spacing": "git+https://github.com/shoelace-ui/spacing.git",
+    "shoelace-ui-spacing": "git+https://github.com/shoelace-ui/spacing.git"
   }
 }

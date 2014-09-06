@@ -1,13 +1,17 @@
 # label
 
-Label styles.
+Label styles
 
-## Installation
+## Install
 
 ```sh
-$ npm install git://github.com/shoelace-ui/label.git
+$ npm install shoelace-ui-label
 ```
+## Usage
 
+```styl
+@require 'shoelace-ui-label'
+```
 ## License
 
 MIT
